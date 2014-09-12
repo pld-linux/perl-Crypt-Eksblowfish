@@ -51,6 +51,5 @@ rm -rf $RPM_BUILD_ROOT
 %dir %{perl_vendorarch}/Crypt/Eksblowfish
 %{perl_vendorarch}/Crypt/Eksblowfish/*.pm
 %dir %{perl_vendorarch}/auto/Crypt/Eksblowfish
-%{perl_vendorarch}/auto/Crypt/Eksblowfish/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Crypt/Eksblowfish/Eksblowfish.so
 %{_mandir}/man3/Crypt::*.3pm*
