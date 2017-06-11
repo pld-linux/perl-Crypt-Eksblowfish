@@ -8,7 +8,7 @@
 Summary:	Crypt::Eksblowfish - the Eksblowfish block cipher
 Name:		perl-Crypt-Eksblowfish
 Version:	0.009
-Release:	5
+Release:	6
 License:	Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Crypt/%{pdir}-%{pnam}-%{version}.tar.gz
